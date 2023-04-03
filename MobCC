@@ -1,7 +1,7 @@
 script_key = getgenv().Mob.Options.Key;
 
 ([[
-                This script has been licensed using Luarmor
+                Ths script has been licensed using Luarmor
             Unauthorized distribution of this script is forbidden.
       Any attempts at tampering, reverse engineering or modifying this script's 
       internal logic will result in a global ban, and make you blacklisted from
