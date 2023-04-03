@@ -1,6 +1,6 @@
 getgenv().Mob = {
     ["Options"] = {
-        Key = "keyhere" -- // replace with ur key ofc
+        Key = "", -- // put ur key in ofc
     },
     ["Silent"] = {
         Enabled = true,
